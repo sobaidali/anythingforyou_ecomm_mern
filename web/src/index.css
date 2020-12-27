@@ -1,0 +1,33 @@
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
+.logo {
+  width: 105px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ededed;
+}
+
+.list-group-item {
+  color: #422470;
+  background-color: #f9f8fc;
+}
+
+.list-group-item:hover {
+  color: #422470;
+  background-color: #f9f8fc;
+}
+
+.list-group-item.active, .list-group-item:focus, .list-group-item:hover {
+  /* color: #fff; */
+}
